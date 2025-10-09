@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Aryan Nasiri.
-Digital Craftsman</h1>
+<h1 align="center">Hello there 👋, I'm Aryan Nasiri.<br>
+ A Digital Craftsman</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🔭 I’m currently working on **personal portfolio**
