@@ -1,14 +1,14 @@
 <h1 align="center">Hello there 👋, I'm Aryan Nasiri.<br>
  A Digital Craftsman</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A junior frontend developer from Iran</h3>
 
 - 🔭 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS** and **Django**
 
 - 👯 I’m looking to collaborate on **Front-End and Back-end for projects**
 
-- 💬 Ask me about **Python, JavaScript, React JS**
+- 💬 Ask me about **Python, Django, JavaScript, React JS**
 
 - 📫 How to reach me **Aryan.Nasiri.Codes@gmail.com**
 
