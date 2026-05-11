@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align: center;">
+<p align= "center">
  
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
